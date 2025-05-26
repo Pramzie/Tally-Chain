@@ -141,11 +141,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🙌 Acknowledgments
 
-Inspired by simple productivity apps, but re-imagined for the blockchain era to promote user sovereignty and immutability.
-
----
 
 Contract Details: 0xD4E496236F24BCf1ef93DD8EDa9EA7ea402b9E89
 ![Screenshot 2025-05-26 141544](https://github.com/user-attachments/assets/9d3af8b4-4303-44b4-8187-cdb61872cb79)
