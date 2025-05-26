@@ -148,5 +148,7 @@ Inspired by simple productivity apps, but re-imagined for the blockchain era to 
 ---
 
 ## 📬 Feedback
+![Screenshot 2025-05-26 141544](https://github.com/user-attachments/assets/9d3af8b4-4303-44b4-8187-cdb61872cb79)
+
 
 
