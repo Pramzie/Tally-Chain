@@ -1,6 +1,6 @@
 
 
-# 📝 TodoListManager – A Decentralized To-Do List dApp
+# 📝 TallyChain – A Decentralized To-Do List dApp
 
 A fully on-chain decentralized to-do list manager built in Solidity, allowing individual Ethereum addresses to create, update, complete, and delete their own tasks.
 
